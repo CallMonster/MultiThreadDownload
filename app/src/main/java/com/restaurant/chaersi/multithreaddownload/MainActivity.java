@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         adapter.addItemListener(new RecyclerAdapterListener() {
             @Override
             public void onItemClickListener(int position) {
-
+                //item的点击事件
             }
 
             @Override
